@@ -1,5 +1,7 @@
 # Implementing A **Secret Connection String** in the General Store API Project
 
+[Jump to Integration with Existing Project](#integrate-with-your-existing-project)
+
 ## To Implement With A Clone Of this Repo:
 
 1. Clone this repository to your local machine.

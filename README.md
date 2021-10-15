@@ -8,7 +8,7 @@
 
 2. Open the solution in Visual Studio.
 
-3. Create a `secrets.config` file at the solution-level directory by right-clicking the WebAPI assembly, selected `Add > New Item`, and choosing **Web configuration File** from the list of options:
+3. Create a `secrets.config` file at the solution-level directory by right-clicking the WebAPI assembly, selecting `Add > New Item`, and choosing **Web configuration File** from the list of options:
 
 ![Adding a web configuration file](assets/secrets-config-add.png)
 
@@ -34,7 +34,7 @@
 
 ## Integrate With Your Existing Project:
 
-1. Create a `secrets.config` file at the solution-level directory by right-clicking the WebAPI assembly, selected `Add > New Item`, and choosing **Web configuration File** from the list of options:
+1. Create a `secrets.config` file at the solution-level directory by right-clicking the WebAPI assembly, selecting `Add > New Item`, and choosing **Web configuration File** from the list of options:
 
 ![Adding a web configuration file](assets/secrets-config-add.png)
 

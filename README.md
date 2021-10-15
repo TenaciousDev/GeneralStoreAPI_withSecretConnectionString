@@ -49,7 +49,7 @@
 
 10. **Ensure that the old connection string is commented out, and that it has been correctly copied into the `secrets.config` file!** Then you may close both `Web.config` and `secrets.config`.
 
-11. In your `.gitignore` file, inclue `secrets.config` under the **User-specific files** heading.
+11. In your `.gitignore` file, include `secrets.config` under the **User-specific files** heading.
 
 ![Include the secrets.config file in your gitignore](assets/secrets-config-gitignore.png)
 

@@ -6,7 +6,7 @@
 2. Open the solution in Visual Studio.
 3. Create a `secrets.config` file by right-clicking the WebAPI assembly, selected `Add > New Item`, and choosing **Web configuration File** from the list of options:
 
-![Adding a web configuration file](assets\secrets-config-add.png)
+![Adding a web configuration file](assets/secrets-config-add.png)
 
 4. Open the newly created `secrets.config` file. Remove all code inside except for the XML header on the top line (`<?xml version="1.0"?>`).
 
@@ -51,7 +51,7 @@
 
 11. In your `.gitignore` file, inclue `secrets.config` under the **User-specific files** heading.
 
-![Include the secrets.config file in your gitignore](assets\secrets-config-gitignore.png)
+![Include the secrets.config file in your gitignore](assets/secrets-config-gitignore.png)
 
 12. Run your application. Confirm it runs as it should.
 
